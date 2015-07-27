@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ helm-find-files
+ helm-buffers-list
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (helm-buffers-list . 2)
+ (helm-find-files . 21)
+ (evil-indent . 1)
+)

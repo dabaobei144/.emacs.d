@@ -1,0 +1,1 @@
+("~/hehe/myelpa/" "~/code/rabbitmq-examples/" "~/tmp/emacs-24.5/" "/sudo:root@localhost:/home/nijia/myelpa/" "~/myelpa/")

@@ -1,0 +1,91 @@
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+cp sample/prelude-modules.el  .
+vi prelude-modules.el 
+ls
+ls
+cp /usr/include/ ~/src
+sudo cp /usr/include/ ~/src
+sudo cp -r/usr/include/ ~/src
+sudo cp -r /usr/include/ ~/src
+ls
+cd
+cd st
+r
+cd src/
+ls
+cd
+ls
+ls
+ls
+ls
+ls
+cd
+ls
+cd myelpa/ls
+ls
+cd myelpa/
+ls
+ls
+ls
+cd ..
+ls
+cd src/
+ls
+cd ..
+mv src/ myelpa/
+sudo mv src/ myelpa/
+ls
+cd myelpa/
+ls
+cd sr
+cd src/
+ls
+ls
+cd
+ls
+cd test
+ls
+cd test
+lscd hehe
+ls hehe
+ls
+ls
+cd tmp
+ls
+cd emacs-24.5/
+ls
+cd ..
+ls
+ls
+cd
+cdls
+cd
+ls
+cd tools
+ls
+cd zsh/
+ls
+cd
+ls
+cd code/
+ls
+cd rabbitmq-examples/
+ls
+cd publisher/
+ls
+cd
+ls
+cd pre
+ls
+cd prelude
+ls
+cd myelpa/
+ls
+cd
